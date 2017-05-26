@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% assign not_featured_posts = (site.posts | where:"categories","events" | sort: "event-date") %}
+{% assign nowunix = site.time | date: '%Y-%m-%d' %}
+<div class="home"> {{ content }}
+
+  <ul class="post-list">
+    <li>
+      <h1 class="eventheader">Upcoming Events</h1>
+    </li>
+  {% for post in not_featured_posts reversed %}
+  {% if post.event-date > nowunix %}
+    <li> {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} <span class="event-meta">{{ post.event-date | date: date_format }}</span>
+      <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+
+        </li> {% endif %}
+  {% endfor %}
+  <li>
+    <h1 class="eventheader">Past Events</h1>
+  </li>
+{% for post in not_featured_posts reversed %}
+  {% if post.event-date < nowunix %}
+    <li> {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} <span class="event-meta">{{ post.event-date | date: date_format }}</span>
+      <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+
+        </li> {% endif %}
+
+  {% endfor %}
+
+</ul>
+
+
+</div>
