@@ -16,10 +16,10 @@
 title: Generous Gardeners
 email: susan@generousgardeners.org
 description: Generous Gardeners is a non-profit 501(c)3 organization founded by Susan Kelly and Terese O’Connell.  The original idea was to be a plant donation/swapping website, but it has evolved into a group of volunteer gardeners with the mission of philanthropy through gardening.  We currently care for 22 public spaces in Gloucester, MA.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/GenerousGardeners" # the subpath of your site, e.g. /blog
+url: "http://microsearch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  
+github_username:
 
 # Build settings
 markdown: kramdown
