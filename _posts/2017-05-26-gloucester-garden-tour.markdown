@@ -3,7 +3,7 @@ layout: post
 title: The 2017 Gloucester Garden Tour in the Village of Magnolia
 date: '2017-05-26 13:19:29 -0400'
 categories: update
-featured: false
+featured: true
 ---
 
 Saturday, July 8, 2017 10-4
@@ -16,7 +16,17 @@ Please no pets. Rain or Shine.
 
 For more information contact [Susan Kelly](susan@generousgardeners.org), [susan@generousgardeners.org](mailto:susan@generousgardeners.org) or 781-346-1363
 
-Click [here](https://www.eventbrite.com/e/2017-gloucester-garden-tour-tickets-30931866044) to purchase tickets.
+Click below to purchase tickets:
+
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SRV4PVL5EUWYJ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</center>
+
 
 Proceeds are for beautification of Gloucester public gardens particularly the new Stacy Boulevard Gardens newly installed as part of the seawall improvement and reconstruction project.
 
