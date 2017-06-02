@@ -1,8 +1,9 @@
 ---
+title: Gloucester Tulip Festival - May 6, 2017
+date: 2017-05-26 17:19:29 Z
+categories:
+- events
 layout: post
-title: 'Gloucester Tulip Festival - May 6, 2017'
-date: '2017-05-26 13:19:29 -0400'
-categories: events
 event-date: '2017-05-06 10:00:00 -0400'
 featured: false
 ---

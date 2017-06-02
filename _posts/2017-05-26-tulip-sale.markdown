@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Tulip Sale
-date: '2017-05-26 13:05:29 -0400'
-categories: update
+date: 2017-05-26 17:05:29 Z
+categories:
+- update
+layout: post
 featured: false
 ---
 

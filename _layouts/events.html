@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign not_featured_posts = (site.posts | where:"categories","events" | sort: "event-date") %}
 {% assign nowunix = site.time | date: '%Y-%m-%d' %}
 <div class="home"> {{ content }}

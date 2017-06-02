@@ -1,8 +1,9 @@
 ---
-layout: post
 title: The Boston Flower and Garden Show
-date: '2017-05-26 13:19:29 -0400'
-categories: events
+date: 2017-05-26 17:19:29 Z
+categories:
+- events
+layout: post
 event-date: '2017-03-22 10:00:00 -0400'
 featured: false
 ---

@@ -1,6 +1,7 @@
 ---
-layout: events
 title: Events
-permalink: /events/
+permalink: "/events/"
+layout: events
 weight: 2
 ---
+

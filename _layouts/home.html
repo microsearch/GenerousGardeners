@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign featured_posts = (site.posts|where:"featured","true"|where:"categories","update") %}
 {% assign not_featured_posts = (site.posts|where:"featured","false"|where:"categories","update") %}
 <div class="home"> {{ content }}

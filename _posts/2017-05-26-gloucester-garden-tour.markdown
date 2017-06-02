@@ -1,8 +1,9 @@
 ---
-layout: post
 title: The 2017 Gloucester Garden Tour in the Village of Magnolia
-date: '2017-05-26 13:19:29 -0400'
-categories: update
+date: 2017-05-26 17:19:29 Z
+categories:
+- update
+layout: post
 featured: true
 ---
 

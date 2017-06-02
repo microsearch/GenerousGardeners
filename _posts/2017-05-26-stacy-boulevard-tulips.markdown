@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Stacy Boulevard Tulips
-date: '2017-05-26 13:15:29 -0400'
-categories: update
+date: 2017-05-26 17:15:29 Z
+categories:
+- update
+layout: post
 featured: false
 ---
 
