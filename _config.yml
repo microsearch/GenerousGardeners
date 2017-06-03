@@ -14,7 +14,7 @@ description: Generous Gardeners is a non-profit 501(c)3 organization founded by 
   website, but it has evolved into a group of volunteer gardeners with the mission
   of philanthropy through gardening.  We currently care for 22 public spaces in Gloucester,
   MA.
-baseurl: ''
+baseurl: 
 url: http://microsearch.github.io/GenerousGardeners/
 twitter_username: 
 github_username: 
