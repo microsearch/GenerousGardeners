@@ -1,6 +1,6 @@
 ---
 title: Gloucester Garden Tour
-permalink: /gloucester-garden-tour/
+permalink: "/gloucester-garden-tour/"
 weight: 2
 layout: page
 ---
