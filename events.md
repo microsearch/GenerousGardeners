@@ -2,6 +2,5 @@
 title: Events
 permalink: "/events/"
 layout: events
-weight: 2
+weight: 1
 ---
-

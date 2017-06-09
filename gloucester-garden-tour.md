@@ -2,7 +2,7 @@
 layout: page
 title: Gloucester Garden Tour
 permalink: /gloucester-garden-tour/
-weight: 3
+weight: 2
 ---
 
 Saturday, July 8, 2017 10-4
