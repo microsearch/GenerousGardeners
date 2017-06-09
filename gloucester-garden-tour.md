@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Gloucester Garden Tour
 permalink: /gloucester-garden-tour/
 weight: 2
+layout: page
 ---
 
 Saturday, July 8, 2017 10-4
