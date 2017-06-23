@@ -19,6 +19,33 @@
   float: left;
 }
 
+#donatebox {
+  width: 500px;
+  height: 40px;
+  float: left;
+  margin-top: -45px;
+
+}
+
+#buynowlabel {
+  font-size: 18px;
+}
+#donateamount {
+  font-size: 18px;
+  padding: 6px;
+  width: 25px;
+  border-radius: 5px;
+  border: solid 1px $brand-color;
+}
+#donatesubmit {
+  font-size: 18px;
+  font-weight: bold;
+  background: $brand-color;
+  color: #fff;
+  padding: 6px 10px;
+  border: solid 1px #efefef;
+  border-radius: 5px;
+}
 .site-nav {
   border-bottom: solid 1px $grey-color-light;
   height: 32px;
@@ -33,10 +60,7 @@
     line-height: $base-line-height;
     font-size: 20px;
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 40px;
-    }
+
   }
 
 .sitemenu {
@@ -49,7 +73,7 @@
 .sitemenu li {
   display: block;
   float: right;
-  padding: 0 0 8px 60px;
+  padding: 0 0 8px 30px;
   margin: 0;
   height: 28px;
   border: solid 1px transparent;

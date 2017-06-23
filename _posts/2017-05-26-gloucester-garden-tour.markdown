@@ -6,6 +6,7 @@ categories:
 layout: post
 featured: true
 ---
+![2017 Gloucester Garden Tour]({{ site.url }}/assets/images/ggtcoverphoto.jpg "2017 Gloucester Garden Tour")
 
 Saturday, July 8, 2017 10-4
 
