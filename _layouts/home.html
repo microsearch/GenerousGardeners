@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign featured_posts = (site.posts|where:"featured","true"|where:"categories","update") %}
+{% assign not_featured_posts = (site.posts|where:"featured","false"|where:"categories","update") %}
+<div class="home"> {{ content }}
+  <ul class="post-list"> {% for post in featured_posts %}
+    <li class="featuredpost"> {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h2>
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <div class="postcontent">
+      {{ post.content }}
+    </div>
+  </li> {% endfor %}
+  {% for post in not_featured_posts %}
+    <li> {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+          <div class="postcontent">
+            {{ post.content }}
+          </div>
+        </li> {% endfor %} </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | relative_url }}">via RSS</a></p>
+</div>

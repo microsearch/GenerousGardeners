@@ -1,0 +1,27 @@
+---
+title: Generous Gardeners
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: susan@generousgardeners.org
+description: Generous Gardeners is a non-profit 501(c)3 organization founded by Susan
+  Kelly and Terese O’Connell.  The original idea was to be a plant donation/swapping
+  website, but it has evolved into a group of volunteer gardeners with the mission
+  of philanthropy through gardening.  We currently care for 22 public spaces in Gloucester,
+  MA.
+baseurl: 
+url: http://microsearch.github.io/GenerousGardeners/
+twitter_username: 
+github_username: 
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
