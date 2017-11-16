@@ -2,7 +2,7 @@
 title: Sponsors
 permalink: "/sponsors"
 weight: 3
-layout: default
+layout: page
 ---
 
 Generous Gardeners is grateful for our generous sponsors. 
