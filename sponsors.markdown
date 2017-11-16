@@ -2,6 +2,7 @@
 title: Sponsors
 date: 2017-11-16 10:44:00 -05:00
 permalink: "/sponsors"
+weight: 3
 layout: default
 ---
 
