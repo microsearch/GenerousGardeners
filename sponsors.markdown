@@ -1,13 +1,13 @@
 ---
 title: Sponsors
 permalink: "/sponsors"
-weight: 3
-layout: page
+weight: 1
+layout: default
 ---
 
-Generous Gardeners is grateful for our generous sponsors. 
+Generous Gardeners is grateful for our generous sponsors.
 
-Partner Level $2,500 for Stacy Boulevard or 
+Partner Level $2,500 for Stacy Boulevard or
 
 Platinum
 
