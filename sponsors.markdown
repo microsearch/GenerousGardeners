@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-permalink: "/about/sponsors/"
+permalink: "/sponsors/"
 weight: 1
 layout: default
 ---
