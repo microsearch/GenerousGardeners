@@ -1,8 +1,8 @@
 ---
 title: Sponsors
-permalink: "/sponsors/"
-weight: 4
-layout: page
+permalink: "/sponsors"
+weight: 1
+layout: default
 ---
 
 Generous Gardeners is grateful for our generous sponsors.
