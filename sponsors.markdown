@@ -1,6 +1,7 @@
 ---
 title: Sponsors
 date: 2017-11-16 10:44:00 -05:00
+permalink: "/sponsors"
 ---
 
 Generous Gardeners is grateful for our generous sponsors. 
