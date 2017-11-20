@@ -10,9 +10,12 @@ Generous Gardeners is grateful for our generous sponsors.
 **Partner Level $2,500**
 
 The Dusky Foundation
+
 William Taylor
+
 William V and Betty M. Ellis Family Foundation
-Jan and Robert 
+
+Jan and Robert
 
 **Platinum $1,000 to $2,500**
 
@@ -54,11 +57,8 @@ Lillian and Craig Olmsted
 Christine and Paul Lundberg
 George and Daphne Roark
 Floyd and Elizabeth
-Tatty  and Quincy 
+Tatty  and Quincy
 Susan and Lee Allen
 The Marolda Family
 Mr & Mrs. Charles Ziering
 Katherine Hamilos
-
-
-
