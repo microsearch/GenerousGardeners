@@ -51,7 +51,7 @@ Generous Gardeners is grateful for our generous sponsors.
 
 * Stephen and Jill Bell
 
-Silver $250-$500
+**Silver $250-$500**
 
 * Maplewood Car Wash
 
