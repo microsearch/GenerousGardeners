@@ -9,7 +9,7 @@ Join us in the intriguing Lanesville neighborhood of Gloucester for the sixth an
 
 Please no pets.  Rain or Shine
 
-For more information contact [Susan Kelly](susan@generousgardeners.org), [susan@generousgardeners.org](mailto:susan@generousgardeners.org) or 781-346-1363
+For more information contact [Susan Kelly](mailto:susan@generousgardeners.org), [susan@generousgardeners.org](mailto:susan@generousgardeners.org) or 781-346-1363
 
 Click below to purchase tickets:
 
