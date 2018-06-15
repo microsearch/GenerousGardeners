@@ -1,13 +1,20 @@
 ---
 title: About Us
 permalink: "/about/"
-layout: page
 weight: 3
+layout: page
 ---
 
 Generous Gardeners is a non-profit 501(c)3 organization founded by Susan Kelly and Terese O'Connell. The original idea was to be a plant donation/swapping website, but it has evolved into a group of volunteer gardeners with the mission of philanthropy through gardening. We currently care for 22 public spaces in Gloucester, MA. Most of our plants are donated by our volunteers, but we also purchase plants with funds from the annual Gloucester Garden tour. Visit www.GloucesterGardenTour.org for tickets and information.
 
 All volunteers are welcome. Email susan@generousgardeners.org to be added to our notification email list for where we are working next.
+
+**Donations**  
+Donations can be sent to:  
+  
+Generous Gardeners
+101 Western Ave, Suite 1
+Gloucester, MA 01930
 
 **Police Station:**
 
