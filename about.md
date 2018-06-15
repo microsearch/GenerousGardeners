@@ -9,12 +9,11 @@ Generous Gardeners is a non-profit 501(c)3 organization founded by Susan Kelly a
 
 All volunteers are welcome. Email susan@generousgardeners.org to be added to our notification email list for where we are working next.
 
-**Donations**  
-Donations can be sent to:  
+**Donations are welcome and can be sent to:**  
   
-Generous Gardeners
-101 Western Ave, Suite 1
-Gloucester, MA 01930
+Generous Gardeners  
+101 Western Ave, Suite 1  
+Gloucester, MA 01930  
 
 **Police Station:**
 
