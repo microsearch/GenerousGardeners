@@ -1,6 +1,7 @@
 ---
-title: Sponsors
+title: 2017 Sponsors
 permalink: "/sponsors/"
+published: false
 weight: 1
 layout: default
 ---
