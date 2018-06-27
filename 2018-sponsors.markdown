@@ -2,8 +2,8 @@
 title: Sponsors
 permalink: "/2018-sponsors/"
 date: 2018-06-27 16:27:00 -04:00
+permalink: "/2018-sponsors/"
 weight: 1
-published: true
 ---
 
 **PLEASE SUPPORT OUR 2018 GENEROUS SPONSORS**
