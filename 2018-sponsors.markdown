@@ -1,12 +1,12 @@
 ---
-title: 2018 Sponsors
+title: Sponsors
 permalink: "/2018-sponsors/"
 date: 2018-06-27 16:27:00 -04:00
 weight: 1
 published: true
 ---
 
-**PLEASE SUPPORT OUR GENEROUS SPONSORS**
+**PLEASE SUPPORT OUR 2018 GENEROUS SPONSORS**
 
 **PLATINUM—$1,000 in cash or goods**\
 Beauport Hotel\
