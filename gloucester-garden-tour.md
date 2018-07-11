@@ -1,9 +1,9 @@
 ---
 title: Gloucester Garden Tour
 permalink: "/gloucester-garden-tour/"
+published: false
 weight: 2
 layout: ggt-page
-published: false
 ---
 
 **Saturday, July 7, 2018 between 10 a.m. and 4 p.m.**
