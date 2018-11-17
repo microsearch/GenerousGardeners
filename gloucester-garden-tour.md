@@ -1,6 +1,7 @@
 ---
 title: Gloucester Garden Tour
 permalink: "/gloucester-garden-tour/"
+published: false
 weight: 2
 layout: ggt-page
 ---

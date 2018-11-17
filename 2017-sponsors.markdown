@@ -1,6 +1,6 @@
 ---
 title: 2017 Sponsors
-permalink: "/sponsors/"
+permalink: "/2017-sponsors/"
 published: false
 weight: 1
 layout: default
